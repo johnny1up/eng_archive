@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Licensed under a 3-clause BSD style license - see LICENSE.rst
 """
-Fetch values from the Ska engineering telemetry archive!!
+Fetch values from the Ska engineering telemetry archive!!!
 """
 from __future__ import print_function, division, absolute_import
 
